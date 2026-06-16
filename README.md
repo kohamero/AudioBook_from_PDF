@@ -1,2 +1,4 @@
 # AudioBook_from_PDF
-My 1st coding project!
+
+My 1st coding project (●'◡'●)
+Made using this [video](https://youtu.be/Flm2YHEFd5A)!
